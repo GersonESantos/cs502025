@@ -15,4 +15,7 @@
 **Linguagem:** English  
 **Legendas:** Habilitar legenda automática do youtube para os vídeos e tradução dos textos com a [Extensão do Google Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt)
 <a href="https://ide.cs50.io/" title="IDE CS50"><img src="assets/idecs50.svg" width=30 /></a>
-<a href="https://ide.cs50.io/"><img src="https://img.shields.io/static/v1?logo=&label=&message=IDE-CS50&color=655BE1&style=for-the-badge" alt="IDE CS50"></a> &nbsp;IDE Online
+<a href="https://ide.cs50.io/"><img src="https://img.shields.io/static/v1?logo=&label=&message=IDE-CS50&color=655BE1&style=for-the-badge" alt="IDE CS50"></a> 
+&nbsp;IDE Online
+# Grade do Curso:
+[Introdução](introducao.md)  
