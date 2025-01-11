@@ -1,4 +1,4 @@
-# CS502025
+# CS50
  
 **CC50** - Introdução à Ciência da Computação.  
 **CS50** - Computer Science 50. 
