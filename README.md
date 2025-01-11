@@ -19,3 +19,5 @@
 &nbsp;IDE Online
 # Grade do Curso:
 [Introdução](introducao.md)  
+
+#### CC50: Módulo 0 - Scratch [YOUTUBE ](https://www.youtube.com/watch?v=9iPsnGJ3kVE&t=25s)
